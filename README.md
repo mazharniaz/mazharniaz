@@ -11,7 +11,6 @@
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" ></a>
 <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC.svg?logo=bitbucket&logoColor=white" ></a>
 <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?logo=jira&logoColor=white" ></a>
-<a href="#"><img alt="ClickUp" src="https://img.shields.io/badge/ClickUp-7B68EE.svg?logo=clickup&logoColor=white" ></a>
 <a href="#"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white" ></a>
 <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white" ></a>
 <a href="#"><img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20.svg?logo=apache-kafka&logoColor=white" ></a>
